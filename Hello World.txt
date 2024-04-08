@@ -2,6 +2,8 @@ Hello World
 This is my first GITHUB
 This is ammendment
 Ammendment-2
+Fix code with amendment
+This is Branch B
 From Branch A
 Fix code with amendment
 
